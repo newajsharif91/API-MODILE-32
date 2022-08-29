@@ -1,0 +1,12 @@
+#couintries-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 15px;
+  background-color: ;
+}
+
+.country {
+  background-color: antiquewhite;
+  border: 2px solid salmon;
+  border-radius: 10px;
+}
